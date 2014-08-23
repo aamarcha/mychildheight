@@ -29,7 +29,7 @@ shinyUI(
                                    plotOutput('parentVSchild')
                            ) 
                    ),
-                   footer= a(href="http://github.com/aamarcha",'See source code')
+                   footer= a(href="http://github.com/aamarcha/mychildheight",'See source code')
         )
 
 )
